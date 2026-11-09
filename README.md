@@ -111,7 +111,7 @@ remote servers, so no GPU is needed.
 **Windows (PowerShell)**
 
 ```powershell
-git clone https://github.com/<your-user>/form-triage.git
+git clone https://github.com/Cabir22/form-triage.git
 cd form-triage
 py -3.11 -m venv .venv
 .venv\Scripts\pip install -r requirements.txt
@@ -122,7 +122,7 @@ copy .env.example .env        # then put your keys in .env (optional, see below)
 **macOS / Linux**
 
 ```bash
-git clone https://github.com/<your-user>/form-triage.git
+git clone https://github.com/Cabir22/form-triage.git
 cd form-triage
 python3.11 -m venv .venv
 .venv/bin/pip install -r requirements.txt
