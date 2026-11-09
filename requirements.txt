@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+gradio_client==2.7.2
+pymupdf
+httpx  # TestClient in test_app.py
